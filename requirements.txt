@@ -1,0 +1,5 @@
+streamlit 
+groq
+streamlit_webrtc 
+SpeechRecognition 
+gtts
